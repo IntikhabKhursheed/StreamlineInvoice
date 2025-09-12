@@ -13,7 +13,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/intikhabkhursheed-9949s-projects/v0-invoice-dashboard-design](https://vercel.com/intikhabkhursheed-9949s-projects/v0-invoice-dashboard-design)**
+**[https://vercel.com/intikhabkhursheed-9949s-projects/v0-invoice-dashboard-design](https://vercel.com/intikhabkhursheed-9949s-projects/invoice-dashboard-design)**
 
 ## Build your app
 
