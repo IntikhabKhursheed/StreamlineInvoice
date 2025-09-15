@@ -1,6 +1,6 @@
 # Invoice dashboard design
 
-
+A modern, full-stack invoice management system designed to help freelancers and small businesses create, manage, and track invoices with ease.
 
 
 
