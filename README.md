@@ -3,10 +3,6 @@
 
 # 📄 Invoice Management System  
 
-![GitHub last commit](https://img.shields.io/github/last-commit/IntikhabKhursheed/v0-invoice-dashboard-design)  
-![GitHub repo size](https://img.shields.io/github/repo-size/IntikhabKhursheed/v0-invoice-dashboard-design)  
-![GitHub stars](https://img.shields.io/github/stars/IntikhabKhursheed/v0-invoice-dashboard-design?style=social)  
-
 A modern, full-stack **invoice management platform** built to help **freelancers and small businesses** easily create, manage, and track invoices.  
 Designed with simplicity and efficiency in mind, the app provides a clean dashboard to monitor payments, clients, and financial records.  
 
